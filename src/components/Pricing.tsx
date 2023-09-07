@@ -48,7 +48,7 @@ const Pricing = () => {
               alignSelf="flex-start"
               textAlign="left"
             >
-              <CheckCircleIcon color="purple" alignSelf="flex-start" mr={3} />{" "}
+              <CheckCircleIcon color="#6B46C1" alignSelf="flex-start" mr={3} />{" "}
               International calling and messaging API
             </Text>
             <Text
@@ -57,7 +57,7 @@ const Pricing = () => {
               alignSelf="flex-start"
               textAlign="left"
             >
-              <CheckCircleIcon color="purple" alignSelf="flex-start" mr={3} />{" "}
+              <CheckCircleIcon color="#6B46C1" alignSelf="flex-start" mr={3} />{" "}
               Additional phone numbers
             </Text>
             <Text
@@ -66,7 +66,7 @@ const Pricing = () => {
               alignSelf="flex-start"
               textAlign="left"
             >
-              <CheckCircleIcon color="purple" alignSelf="flex-start" mr={3} />{" "}
+              <CheckCircleIcon color="#6B46C1" alignSelf="flex-start" mr={3} />{" "}
               Automated messages via Zapier
             </Text>
             <Text
@@ -76,7 +76,7 @@ const Pricing = () => {
               textAlign="left"
               mr={3}
             >
-              <CheckCircleIcon color="purple" alignSelf="flex-start" mr={3} />{" "}
+              <CheckCircleIcon color="#6B46C1" alignSelf="flex-start" mr={3} />{" "}
               24/7 support and consulting
             </Text>
           </VStack>
