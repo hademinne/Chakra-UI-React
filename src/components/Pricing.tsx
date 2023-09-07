@@ -14,7 +14,7 @@ const Pricing = () => {
     <Box
       maxW="994px"
       margin="auto"
-      marginTop="-110px"
+      marginTop="-170px"
       borderRadius={15}
       overflow="hidden"
       boxShadow="dark-lg"

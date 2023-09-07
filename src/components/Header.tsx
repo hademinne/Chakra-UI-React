@@ -13,7 +13,7 @@ const Header = () => {
         <Heading fontWeight="800px" fontSize="48px">
           Simple pricing for your business
         </Heading>
-        <Text fontWeight="400" fontSize="24px" pt="16px" pl="60px">
+        <Text fontWeight="400" fontSize="24px" pt="6px" pl="60px">
           Plans that are carefully crafted to suit your business.
         </Text>
       </Box>
